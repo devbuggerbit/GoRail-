@@ -38,22 +38,6 @@ It combines train services, AI assistance, complaint management, multilingual su
 - Smart Complaint Guidance
 - User Navigation Assistance
 
----
-
-## 🛠️ Tech Stack
-
-- React
-- Vite
-- JavaScript
-- Tailwind CSS
-- Node.js
-- Git & GitHub
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here later)
 
 ---
 
@@ -68,25 +52,6 @@ It combines train services, AI assistance, complaint management, multilingual su
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-- React.js
-- Vite
-- Tailwind CSS
-- JavaScript
-
-### Backend
-
-- Node.js
-
-### Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Bolt.new
 
 ### AI Integration
 
