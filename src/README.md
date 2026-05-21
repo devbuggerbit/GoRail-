@@ -67,3 +67,28 @@ It combines train services, AI assistance, complaint management, multilingual su
 - QR Ticketing
 
 ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+
+### Backend
+
+- Node.js
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Bolt.new
+
+### AI Integration
+
+- AI Chatbot Assistant
+- Multilingual Support System
